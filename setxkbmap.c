@@ -1,4 +1,4 @@
-/* $XdotOrg: xc/programs/setxkbmap/setxkbmap.c,v 3.7 2003/01/20 04:15:08 dawes Exp $ */
+/* $XdotOrg: xc/programs/setxkbmap/setxkbmap.c,v 1.2 2004/04/23 19:54:37 eich Exp $ */
 /************************************************************
  Copyright (c) 1996 by Silicon Graphics Computer Systems, Inc.
 
